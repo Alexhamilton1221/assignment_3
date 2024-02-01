@@ -1,7 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
-  "homepage": "http://Alexhamilton1221.github.io/assignment_3_3097140_Hamilton_Alexander",
+  "homepage": "http://Alexhamilton1221.github.io/assignment_3",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
