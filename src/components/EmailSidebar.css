@@ -1,0 +1,46 @@
+.EmailSidebar {
+  width: 30%;
+  padding: 20px;
+  border-right: 1px solid #ccc;
+}
+
+.EmailSidebar h2 {
+  margin-bottom: 10px;
+}
+
+.EmailSidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.email-item {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.email-item:hover {
+  background-color: #292424;
+}
+
+.email-item.unread {
+  background-color: #c4c4c4;
+}
+
+.email-item.read {
+  background-color: #41bf54;
+}
+
+.email-item.active {
+  background-color: #d99e9e;
+}
+
+.EmailSidebar {
+  width: 30%;
+  padding: 20px;
+  border-right: 1px solid #ccc;
+}
+
+.sidebar-title {
+  text-align: center; /* Center align the text */
+  margin-bottom: 10px;
+}
