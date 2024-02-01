@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/assignment_3/static/css/main.4f371472.css",
-    "main.js": "/assignment_3/static/js/main.e87b0f54.js",
-    "static/js/787.38f16daf.chunk.js": "/assignment_3/static/js/787.38f16daf.chunk.js",
-    "index.html": "/assignment_3/index.html",
-    "main.4f371472.css.map": "/assignment_3/static/css/main.4f371472.css.map",
-    "main.e87b0f54.js.map": "/assignment_3/static/js/main.e87b0f54.js.map",
-    "787.38f16daf.chunk.js.map": "/assignment_3/static/js/787.38f16daf.chunk.js.map"
+    "main.css": "/assignment_3_3097140_Hamilton_Alexander/static/css/main.4f371472.css",
+    "main.js": "/assignment_3_3097140_Hamilton_Alexander/static/js/main.27dbe995.js",
+    "static/js/787.38f16daf.chunk.js": "/assignment_3_3097140_Hamilton_Alexander/static/js/787.38f16daf.chunk.js",
+    "index.html": "/assignment_3_3097140_Hamilton_Alexander/index.html",
+    "main.4f371472.css.map": "/assignment_3_3097140_Hamilton_Alexander/static/css/main.4f371472.css.map",
+    "main.27dbe995.js.map": "/assignment_3_3097140_Hamilton_Alexander/static/js/main.27dbe995.js.map",
+    "787.38f16daf.chunk.js.map": "/assignment_3_3097140_Hamilton_Alexander/static/js/787.38f16daf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f371472.css",
-    "static/js/main.e87b0f54.js"
+    "static/js/main.27dbe995.js"
   ]
 }
